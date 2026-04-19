@@ -7,3 +7,9 @@ b=eval(input('enter the value of b :',b))
 print('the addition of two values: ',add(a,b))
 
 
+def bmi():
+    adkfjd
+    aslfjdsa
+    akgjadslg
+    asdkfljdsagf
+    
